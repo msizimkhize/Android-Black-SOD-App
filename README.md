@@ -1,5 +1,5 @@
-# Black Screen Android Tool
-This application turns the display of the android monitor to black upon the Android user tapping anywhere on the screen, as per the given instructions.
+# Android Black Screen of Death (SOD) Tool
+This application prompts an Android user to activate the black screen of death, as per the printed instructions.
 
 Implemented in Java.
 
